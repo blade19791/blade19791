@@ -15,37 +15,11 @@
 
 ---
 
-## 🧰 Tech Stack
+### 🛠 Tech Stack
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,postgres,git,linux,neovim" />
 </p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
-
-### Tools & Environment
-<p>
-  <img src="https://skillicons.dev/icons?i=git,neovim,linux" />
-</p>
-
-- 🐧 Arch Linux
-- 🧠 DataGrip
-
----
-
-## 🌟 Featured Project
-
-### 🚀 LocalLink
-A service-finding platform focused on connecting local services and users efficiently.
 
 ---
 
@@ -54,6 +28,5 @@ A service-finding platform focused on connecting local services and users effici
 - Portfolio: https://blade-dev-portfolio.dev
 - LinkedIn: https://linkedin.com/in/blade-dev
 
----
 
 
