@@ -23,10 +23,4 @@
 
 ---
 
-## 🌐 Connect With Me
-
-- Portfolio: https://blade-dev-portfolio.dev
-- LinkedIn: https://linkedin.com/in/blade-dev
-
-
 
